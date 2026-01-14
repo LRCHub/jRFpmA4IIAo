@@ -1,0 +1,33 @@
+# SALES – Pope Is a Rockstar
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.67] Now he wants to start talking
+[00:15.85] "Go ahead, " when I'm walking
+[00:21.19] Face the lie that I'm hawking
+[00:26.43] "No, don't wanna, won't happen"
+[00:34.48] Pope is a rockstar
+[00:39.86] You take your clothes off
+[00:45.05] Heading for the last fight
+[00:50.23] Before our worlds part
+[01:03.85] We can wait forever for the world to untrack
+[01:09.25] We can wait forever for the worthwhile track
+[01:14.40] And oh, you want to start talking
+[01:19.86] Fall together, I'm walking
+[01:25.17] Face the lie that I'm hawking
+[01:30.41] We can always fight
+[01:38.48] You can be the highlight
+[01:43.75] Pope is a rockstar
+[01:49.01] Hoping on a late night
+[01:57.13] How you wanna start talking?
+[02:02.41] How you wanna start walking?
+[02:07.87] We can make a landslide, dive-in
+[02:13.19] We can let it all go, cave-in
+[02:18.59] Oh
+[02:19.89] You wanna start talking
+[02:23.52] Oh
+[02:24.83] You know what I'm walking
+[02:29.08] Hoping and a-hoping that I won't cry
+[02:34.46] Hoping and a-hoping that I won't try
+```

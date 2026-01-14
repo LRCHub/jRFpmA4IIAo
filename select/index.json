@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Pope Is a Rockstar",
+  "base_artist": "SALES",
+  "createdAt": "2026-01-14T04:45:55.210287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pope Is a Rockstar",
+      "artist": "Sales",
+      "has_synced": true,
+      "path": "select/01_Pope_Is_a_Rockstar_Sales.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "pope is a rockstar",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/02_pope_is_a_rockstar_SALES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pope Is a Rockstar",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/03_Pope_Is_a_Rockstar_SALES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pope Is a Rockstar",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/04_Pope_Is_a_Rockstar_SALES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "pope is a rockstar",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/05_pope_is_a_rockstar_SALES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pope Is a Rockstar (Paused)",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/06_Pope_Is_a_Rockstar_(Paused)_SALES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pope Is A Rockstar (Slowed)",
+      "artist": "SALES",
+      "has_synced": true,
+      "path": "select/07_Pope_Is_A_Rockstar_(Slowed)_SALES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Pope Is A Rockstar!",
+      "artist": "Back Bone",
+      "has_synced": false,
+      "path": "select/08_The_Pope_Is_A_Rockstar!_Back_Bone.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pope Is a Rockstar Black Out Days",
+      "artist": "denxz?",
+      "has_synced": true,
+      "path": "select/09_Pope_Is_a_Rockstar_Black_Out_Days_denxz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "go little rockstar (pope is a rockstar) [lofi]",
+      "artist": "teland",
+      "has_synced": false,
+      "path": "select/10_go_little_rockstar_(pope_is_a_rockstar)_[lofi]_teland.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pope Is a Rockstar",
+      "artist": "Sales",
+      "has_synced": false,
+      "path": "select/pl_01_Pope_Is_a_Rockstar_Sales.txt"
+    }
+  ]
+}
